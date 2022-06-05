@@ -1,7 +1,7 @@
 - 👋 Hello, welcome to my space. I’m Eswaran Badrinarayanan Venkateswaran, a graduate student in Applied Computing at the University of Windsor. 
-- 👀 I’m interested in Frontend Android App Development, Full-Stack Web Development-MERN, Data Analysis-Tableau.   
+- 👀 I’m interested in Frontend Android App Development, Full-Stack Web Development-MERN, Data/Business Analytics-Tableau.   
 - 🌱 I’m currently learning Node.js, React.js, Apache Hadoop & MongoDB.
-- 💞️ I’m looking to collaborate on open-source, community projects and actively seeking internship opportunities.
+- 💞️ I’m looking to collaborate on open-source, community projects and actively seeking internship opportunities for fall 2022.
 - 📫 LinkedIn : https://www.linkedin.com/in/eswaran-bv.
 
 <!---
